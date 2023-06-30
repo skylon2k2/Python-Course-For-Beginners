@@ -1,2 +1,2 @@
-# Python from Zero
+# Python Course For Beginners
 In progress
